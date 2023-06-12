@@ -39,11 +39,19 @@ body {
   color: #ffffff;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-  }
-  
+.card {
+  display: inline-block;
+  width: 100%;
+  max-width: 300px;
+  margin-left: 50px; ;
+  margin-bottom: 20px;
+  padding: 0px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 20px;
+  ;
+}
+
   body {
     padding-top: 20px;
   }
